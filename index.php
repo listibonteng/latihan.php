@@ -1,3 +1,4 @@
 <?php
-echo "Hello Word";
+echo "Hello Wolrd";
+echo "perubahan";
 ?>
